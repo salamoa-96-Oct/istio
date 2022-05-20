@@ -27,7 +27,7 @@
 
 → 의존성이 커서 잘못된 코드 배포시 서버 전체 장애 확률이 높음
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/627fa7c8-7ed6-471a-995f-7c8925d9dc6f/Untitled.png)
+![1](https://user-images.githubusercontent.com/83336692/169459232-219e2897-b7c5-4435-96b1-358e42b4cd94.png)
 
 ### 마이크로서비스 아키텍처
 
